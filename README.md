@@ -6,7 +6,7 @@ An API Server written in node js for storing data about highscores.
 Lets API Consumers attain data about highscores player have made in my games (My games can integrate will this api).
 
 ## Future Ideas of Improving the system
-- Deployed
+- Deployed on the cloud
 - Events Integration, sending events such as new highscore, players can subscribe to specific games/levels
 - C#/Unity Client SDK making it easy to integrate with the scores API.
 - Store statistics about number of games played
