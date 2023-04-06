@@ -5,6 +5,11 @@ An API Server written in node js for storing data about highscores.
 ## Features
 Lets API Consumers attain data about highscores player have made in my games (My games can integrate will this api).
 
+
+## Technologies Used in the backend
+- NodeJS
+- MySQL
+
 ## Future Ideas of Improving the system
 - Deployed on the cloud
 - Events Integration, sending events such as new highscore, players can subscribe to specific games/levels
@@ -12,9 +17,3 @@ Lets API Consumers attain data about highscores player have made in my games (My
 - Store statistics about number of games played
 - Personal player historical scoring data
 - Support for integration with games from other creators
-
-## Technologies Used
-
-- NodeJS
-- MySQL
-
